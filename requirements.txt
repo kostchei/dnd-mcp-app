@@ -1,0 +1,18 @@
+# D&D MCP Server Requirements
+# Core MCP dependencies
+mcp[cli]>=1.0.0
+pydantic>=2.0.0
+
+# LM Studio integration
+openai>=1.0.0
+
+# Optional: Additional useful packages
+# asyncio is built into Python 3.7+
+# sqlite3 is built into Python
+# random is built into Python
+# typing is built into Python 3.5+
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For testing
+# black>=23.0.0   # For code formatting
+# mypy>=1.0.0     # For type checking
